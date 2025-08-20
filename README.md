@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @stojic-luka
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-nine-24.vercel.app/api/top-langs?username=stojic-luka&hide=html,scss,stylus,blade,css,shell,batchfile,dockerfile&theme=catppuccin_mocha&exclude_repo=github-readme-stats&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-nine-24.vercel.app/api/top-langs?username=stojic-luka&hide=html,scss,stylus,blade,css,shell,batchfile,dockerfile&theme=catppuccin_mocha&exclude_repo=github-readme-stats&langs_count=6" alt="Top Languages" />
 </p>
 
 ## 🛠️ My Languages & Tech Stack
